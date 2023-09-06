@@ -17,6 +17,4 @@ class Student
     end
     total.sum / scores.count
   end
-  
-  
 end
